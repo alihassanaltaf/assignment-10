@@ -4,7 +4,7 @@
     border: groove black;
     text-align: center;
     background-color: skyblue;
-    
+    margin: auto;
 }
 .image {
     padding: 10px;
@@ -27,4 +27,5 @@ button{
     border: solid ;
     background-color: skyblue;
     
+
 }
